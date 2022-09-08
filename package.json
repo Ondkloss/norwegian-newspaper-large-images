@@ -23,6 +23,6 @@
     "chrome-webstore-upload": "^0.2.2",
     "dotenv": "^8.2.0",
     "eslint": "^6.6.0",
-    "web-ext": "^5.4.1"
+    "web-ext": "^7.2.0"
   }
 }
